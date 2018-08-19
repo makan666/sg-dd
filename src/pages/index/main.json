@@ -1,0 +1,30 @@
+{
+  "usingComponents": {
+    "i-button": "../../../static/iview/button/index",
+    "i-tab-bar": "../../../static/iview/tab-bar/index",
+    "i-tab-bar-item": "../../../static/iview//tab-bar-item/index"
+  },
+  "tabBar": {
+    "color": "#a9b7b7",
+    "selectedColor": "#11cd6e",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/home/main",
+        "text": "资讯"
+      },
+      {
+        "pagePath": "pages/home/main",
+        "text": "学堂"
+      },
+      {
+        "pagePath": "pages/home/main",
+        "text": "社区"
+      },
+      {
+        "pagePath": "pages/home/main",
+        "text": "我的"
+      }
+    ]
+  }
+}
